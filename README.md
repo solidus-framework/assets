@@ -1,6 +1,19 @@
 # Solidus Framework assets
 
+## Adding as a submodule
+
+```sh
+git submodule add https://github.com/solidus-framework/assets.git sub/assets
+```
+
+## Update submodule
+
+```sh
+git submodule update --remote ./sub/assets
+```
+
 ## Logo v1
+
 |Format|Type|Size|File|
 |-|-|-|-|
 |SVG|Logo|N/A|[logo.svg](./logo/v1/logo.svg)|
